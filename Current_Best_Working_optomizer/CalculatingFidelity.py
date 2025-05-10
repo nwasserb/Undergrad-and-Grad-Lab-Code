@@ -20,11 +20,11 @@ def calculate_HBasis_new(H_probH, H_probD, D_probH):
     lambdas = -np.arccos((1 - 2 * D_probH) / (2*np.cos(theta/2)*np.sin(theta/2)))
     
  
-    print((1 - 2 * D_probH) / (2*np.cos(theta/2)*np.sin(theta/2)))
+    #print((1 - 2 * D_probH) / (2*np.cos(theta/2)*np.sin(theta/2)))
 
-    print(theta)
-    print(psi)
-    print(lambdas)
+    #print(theta)
+    #print(psi)
+    #print(lambdas)
     return theta, psi, lambdas
 #######################################################
 
@@ -57,7 +57,7 @@ def fidelity(theta, psi, lambdas):
         [np.cos(theta/2), -np.exp(1j * lambdas)*np.sin(theta/2)],
         [np.exp(1j * psi) * np.sin(theta/2), np.exp(1j * (psi + lambdas)) * np.cos(theta/2)]
     ])
-    print(U)
+    #print(U)
     fidelity = 1/4 * np.abs((np.trace(np.dot((np.conjugate(U).T),T))))**2
     print("Fidelity: ", fidelity)
     return fidelity
