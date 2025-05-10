@@ -1,0 +1,87 @@
+Before fiber loop
+
+Det A: 2681653	Det B: 872140	Acc: 90  Coinc: 10846 	Peak: 1136
+Det A: 2695920	Det B: 947078	Acc: 100 Coinc: 3362 	Peak: 1137
+Det A: 2681595	Det B: 893012	Acc: 104 Coinc: 3779 	Peak: 1136
+Det A: 2629868	Det B: 888732	Acc: 59	 Coinc: 9921 	Peak: 1137
+Det A: 2624740	Det B: 804013	Acc: 64	 Coinc: 9719 	Peak: 1136
+Det A: 2589533	Det B: 1004369	Acc: 105 Coinc: 2893 	Peak: 1137
+Det A: 2766999	Det B: 855037	Acc: 82	 Coinc: 5170 	Peak: 1136
+Det A: 2782267	Det B: 936491	Acc: 106 Coinc: 10163 	Peak: 1137
+Det A: 2814428	Det B: 888678	Acc: 92	 Coinc: 11917 	Peak: 1136
+Det A: 2845863	Det B: 881847	Acc: 84	 Coinc: 3996 	Peak: 1136
+Det A: 2871179	Det B: 811592	Acc: 83	 Coinc: 1801 	Peak: 1136
+Det A: 2868116	Det B: 999422	Acc: 92	 Coinc: 14072 	Peak: 1137
+Det A: 2795726	Det B: 870696	Acc: 94	 Coinc: 6053 	Peak: 1136
+Det A: 2816968	Det B: 942436	Acc: 88	 Coinc: 9618 	Peak: 1136
+Det A: 2803168	Det B: 896348	Acc: 95	 Coinc: 13416 	Peak: 1136
+Det A: 2789533	Det B: 883406	Acc: 86	 Coinc: 2471 	Peak: 1136
+Det A: 2771114	Det B: 809729	Acc: 81	 Coinc: 11229 	Peak: 1136
+Det A: 2754081	Det B: 1001491	Acc: 117 Coinc: 3150 	Peak: 1136
+Det A: 2655124	Det B: 864082	Acc: 88	 Coinc: 9596 	Peak: 1136
+Det A: 2651584	Det B: 937172	Acc: 105 Coinc: 5119 	Peak: 1136
+Det A: 2640965	Det B: 880970	Acc: 91	 Coinc: 3413 	Peak: 1137
+Det A: 2625783	Det B: 880720	Acc: 87	 Coinc: 10106 	Peak: 1136
+Det A: 2594292	Det B: 794149	Acc: 77	 Coinc: 1635 	Peak: 1136
+Det A: 2608432	Det B: 1003464	Acc: 84	 Coinc: 11713 	Peak: 1137
+Det A: 2832490	Det B: 849996	Acc: 101 Coinc: 13514 	Peak: 1136
+Det A: 2806084	Det B: 931961	Acc: 87	 Coinc: 2977 	Peak: 1137
+Det A: 2836535	Det B: 880373	Acc: 86	 Coinc: 12249 	Peak: 1136
+Det A: 2808016	Det B: 876572	Acc: 84	 Coinc: 3858 	Peak: 1136
+Det A: 2841015	Det B: 794892	Acc: 75	 Coinc: 4592 	Peak: 1136
+Det A: 2814320	Det B: 994448	Acc: 115 Coinc: 10179 	Peak: 1136
+Det A: 2473098	Det B: 854231	Acc: 71	 Coinc: 868 	Peak: 1137
+Det A: 2455355	Det B: 933190	Acc: 75	 Coinc: 10599 	Peak: 1136
+Det A: 2489172	Det B: 884905	Acc: 72	 Coinc: 3111 	Peak: 1136
+Det A: 2489590	Det B: 873447	Acc: 87	 Coinc: 8164 	Peak: 1136
+Det A: 2493376	Det B: 796814	Acc: 69	 Coinc: 7187 	Peak: 1137
+Det A: 2475735	Det B: 999774	Acc: 100 Coinc: 5474 	Peak: 1137
+
+coinc_vec =
+
+10846        5170        6053        9596       13514         868        3362       10163        9618        5119        2977       10599        3779       11917       13416        3413       12249        3111        9921        3996        2471       10106        3858        8164        9719        1801       11229        1635         4592        7187        2893       14072        3150       11713       10179        5474
+
+
+
+After fiber loop
+
+Det A: 2476066	Det B: 577581	Acc: 47	Coinc: 2556 	Peak: 1627
+Det A: 2477666	Det B: 572897	Acc: 51	Coinc: 2968 	Peak: 1621
+Det A: 2478115	Det B: 542041	Acc: 36	Coinc: 1180 	Peak: 1623
+Det A: 2455479	Det B: 585356	Acc: 51	Coinc: 3732 	Peak: 1627
+Det A: 2473751	Det B: 537223	Acc: 50	Coinc: 687 	Peak: 1627
+Det A: 2467247	Det B: 599467	Acc: 62	Coinc: 4629 	Peak: 1625
+Det A: 2885967	Det B: 574846	Acc: 62	Coinc: 3252 	Peak: 1625
+Det A: 2870949	Det B: 574766	Acc: 62	Coinc: 3463 	Peak: 1621
+Det A: 2891219	Det B: 540877	Acc: 57	Coinc: 5592 	Peak: 1625
+Det A: 2903724	Det B: 585357	Acc: 61	Coinc: 1888 	Peak: 1617
+Det A: 2907249	Det B: 540170	Acc: 64	Coinc: 6219 	Peak: 1621
+Det A: 2883035	Det B: 601363	Acc: 63	Coinc: 858 	Peak: 1625
+Det A: 2596412	Det B: 575481	Acc: 69	Coinc: 5708 	Peak: 1625
+Det A: 2619842	Det B: 573267	Acc: 63	Coinc: 359 	Peak: 1627
+Det A: 2599088	Det B: 540424	Acc: 57	Coinc: 2376 	Peak: 1625
+Det A: 2604076	Det B: 586644	Acc: 49	Coinc: 3947 	Peak: 1623
+Det A: 2621452	Det B: 541493	Acc: 47	Coinc: 3476 	Peak: 1623
+Det A: 2624113	Det B: 602480	Acc: 47	Coinc: 2569 	Peak: 1627
+Det A: 2778410	Det B: 577176	Acc: 75	Coinc: 342 	Peak: 1629
+Det A: 2763385	Det B: 579013	Acc: 66	Coinc: 5609 	Peak: 1627
+Det A: 2781857	Det B: 543510	Acc: 43	Coinc: 4032 	Peak: 1623
+Det A: 2762929	Det B: 587581	Acc: 67	Coinc: 1843 	Peak: 1619
+Det A: 2762611	Det B: 543553	Acc: 52	Coinc: 3430 	Peak: 1621
+Det A: 2792615	Det B: 600931	Acc: 58	Coinc: 3056 	Peak: 1627
+Det A: 2732509	Det B: 576054	Acc: 56	Coinc: 4240 	Peak: 1623
+Det A: 2746910	Det B: 578149	Acc: 56	Coinc: 1968 	Peak: 1621
+Det A: 2757725	Det B: 543248	Acc: 50	Coinc: 5678 	Peak: 1625
+Det A: 2728061	Det B: 587537	Acc: 52	Coinc: 651 	Peak: 1631
+Det A: 2730934	Det B: 543485	Acc: 50	Coinc: 1763 	Peak: 1619
+Det A: 2751603	Det B: 601563	Acc: 57	Coinc: 4437 	Peak: 1627
+Det A: 2638397	Det B: 576739	Acc: 55	Coinc: 2129 	Peak: 1621
+Det A: 2633798	Det B: 578126	Acc: 46	Coinc: 4261 	Peak: 1625
+Det A: 2638046	Det B: 542942	Acc: 42	Coinc: 927 	Peak: 1629
+Det A: 2658149	Det B: 587706	Acc: 63	Coinc: 5336 	Peak: 1623
+Det A: 2655430	Det B: 539678	Acc: 63	Coinc: 4980 	Peak: 1623
+Det A: 2657103	Det B: 601409	Acc: 51	Coinc: 1039 	Peak: 1621
+
+Coincedence count:
+
+2556        3252        5708         342        4240        2129        2968        3463         359        5609        1968        4261        1180        5592        2376        4032        5678         927        3732        1888        3947        1843         651        5336         687        6219        3476        3430         1763        4980        4629         858        2569        3056        4437        1039
